@@ -67,7 +67,7 @@ document.onkeyup = function (event) {
 
   if (guessesLeft <= 0) {
     losses++;
-    alert("You Are Not a Psychic!")
+    alert("You Are a Fraud and a Charlatan!")
     newGame();
   }
 
