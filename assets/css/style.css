@@ -5,3 +5,7 @@ body {
 .crystal-ball {
   width: 100%;
 }
+
+.custom-brand {
+  font-family: 'Germania One', cursive;
+}
